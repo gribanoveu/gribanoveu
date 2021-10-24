@@ -5,7 +5,7 @@ __Email:__ |__gribanoveu@yandex.ru__|
 __Telegram:__| __eugene_grb__ |
 
 ## 📄 Summary
-> #### Junior Software Quality Test Engineer with expertise in Automation Testing in Web. Experience using Testing tools like Cucumber, Selenium, WebDriver, REST Assured.
+> #### Junior Software Quality Test Engineer with expertise in Automation Testing in Web. Experience using testing tools like Cucumber, Selenium, WebDriver, REST Assured.
 
 > #### Automation of test scripts and user stories in Cucumber. Writing Test Cases Using JUnit and AssertJ. API testing with REST Assured library. Using patterns such as Page Objects, Page Factory, Page Elements, Assert Objects, SimpleFactory, Builder. Experience with Jenkins.
 
