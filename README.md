@@ -11,8 +11,8 @@ __Telegram:__| __eugene_grb__ |
 
 ## 🛠 Skills
 
-Java | Selenium | JUnit | Cucumber | Maven| REST Assured| Git | MacOS, Windows
------|----------|-------|----------|------|------------|------|--------------
+Java | Selenium | JUnit | Cucumber | Maven| REST Assured|Jenkins| Git | MacOS, Windows
+-----|----------|-------|----------|------|------------|------|--------------|---
 
 
 ## 🌎 Languages
