@@ -1,5 +1,4 @@
 ## QA Java Automation
-### Connect with me:
 
 __Email:__ |__gribanoveu@yandex.ru__| 
 ---------|------------------|
