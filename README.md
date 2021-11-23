@@ -12,7 +12,9 @@ __Telegram:__| __eugene_grb__ |
 ## 🛠 Skills
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Selenide-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-JUnit-informational?style=flat&logo=junit5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-TestNG-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-REST%20Assured-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
