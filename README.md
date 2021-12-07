@@ -39,3 +39,6 @@ English  | B1 Intermediate
 ## 💼  Experience
 > #### 2017 - 2021 JSC Sady Pridonya
 > #### Technological equipment operator.
+
+> ### 2021 Consyst Business Group
+> ### Junior QA automation 
