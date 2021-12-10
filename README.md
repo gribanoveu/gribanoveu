@@ -31,6 +31,7 @@ Language | Level
 Russian  | native
 English  | B1 Intermediate
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-grb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Education
 > #### 2015 - 2019 Volgograd State Agrarian University. 
