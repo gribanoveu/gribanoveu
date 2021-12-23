@@ -43,4 +43,4 @@ English  | B1 Intermediate
 > #### Technological equipment operator.
 
 > ### 2021 Consyst Business Group
-> ### Junior QA automation 
+> ### QA automation 
