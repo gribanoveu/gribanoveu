@@ -1,4 +1,4 @@
-## QA Java Automation
+## Java QA Automation
 
 __Email:__ |__gribanoveu@yandex.ru__| 
 ---------|------------------|
