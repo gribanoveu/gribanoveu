@@ -10,19 +10,12 @@ __Telegram:__| __eugene_grb__ |
 > #### Automation of test scripts and user stories in Cucumber. Writing Test Cases Using JUnit and AssertJ. API testing with REST Assured library. Using patterns such as Page Objects, Page Factory, Page Elements, Assert Objects, SimpleFactory, Builder. Experience with Jenkins.
 
 ## 🛠 Skills
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Selenide-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-JUnit-informational?style=flat&logo=junit5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-TestNG-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-REST%20Assured-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jmeter-informational?style=flat&logo=jmeter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac%20OS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+Property | Data
+--- | --- 
+**Language / IDE**  | ![Java Badge](https://img.shields.io/badge/Java-E06C00?style=flat&logo=Java&logoColor=white) ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-1178EA?style=flat&logo=intellij-idea&logoColor=white)
+**Framework**  | ![Selenium Badge](https://img.shields.io/badge/-Selenium-00AE00?style=flat&logo=Selenium&logoColor=white) ![Selenide Badge](https://img.shields.io/badge/-Selenide-00AE00?style=flat&logo=Selenium&logoColor=white) ![JUnit Badge](https://img.shields.io/badge/JUnit_5-DC524A?style=flat&logo=JUnit5&logoColor=white) ![TestNG Badge](https://img.shields.io/badge/TestNG-white?style=flat&logo=TestNG&logoColor=white) ![Cucumber Badge](https://img.shields.io/badge/Cucumber-52B564?style=flat&logo=cucumber&logoColor=white) ![Rest Badge](https://img.shields.io/badge/REST%20Assured-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+**Tools**  |![Git Badge](https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white) ![Maven Badge](https://img.shields.io/badge/Maven-D1412F?style=flat&logo=ApacheMaven&logoColor=white) ![JMeter Badge](https://img.shields.io/badge/JMeter-D1412F?style=flat&logo=ApacheJMeter&logoColor=white)
+**OS**  |  ![Mac Badge](https://img.shields.io/badge/Mac%20OS-informational?style=flat-square&logo=apple&logoColor=white&color=black) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=black) ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=black)
 
 
 ## 🌎 Languages
@@ -43,4 +36,4 @@ English  | B1 Intermediate
 > #### Technological equipment operator.
 
 > ### 2021 Consyst Business Group
-> ### QA automation 
+> ### JAva QA automation 
