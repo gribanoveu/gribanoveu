@@ -36,4 +36,4 @@ English  | B1 Intermediate
 > #### Technological equipment operator.
 
 > ### 2021 Consyst Business Group
-> ### JAva QA automation 
+> ### Java QA automation 
