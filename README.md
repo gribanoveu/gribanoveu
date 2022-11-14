@@ -28,12 +28,10 @@ English  | B1 Intermediate
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-grb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Education
+
 > #### 2015 - 2019 Volgograd State Agrarian University. 
-> #### Bachelor of Technology of Production and Processing of Crop Products.
 
 ## 💼  Experience
-> #### 2017 - 2021 JSC Sady Pridonya
-> #### Technological equipment operator.
 
 > ### 2021 Consyst Business Group
 > ### Java QA automation 
