@@ -2,7 +2,7 @@
 
 __Email:__ |__gribanoveu@yandex.ru__| 
 ---------|------------------|
-__Telegram:__| __eugene_grb__ |
+__Telegram:__| __egribanov__ |
 
 ## 📄 Summary
 > #### Software Quality Test Engineer with expertise in Automation Testing in Web. Experience using testing tools like Cucumber, Selenium, WebDriver, REST Assured, Stress testing.
