@@ -25,7 +25,6 @@ Language | Level
 Russian  | native
 English  | B1 Intermediate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gribanoveu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Education
 
@@ -33,5 +32,8 @@ English  | B1 Intermediate
 
 ## 💼  Experience
 
-> ### 2021 Consyst Business Group
-> ### Java QA automation 
+> ### 2021 - 2024 Consyst Business Group
+> ### Java QA automation
+
+> ### 2024 Alfa-Bank
+> ### Senior QA
