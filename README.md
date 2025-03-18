@@ -25,6 +25,8 @@ Language | Level
 Russian  | native
 English  | B1 Intermediate
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gribanoveu&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📚 Education
 
