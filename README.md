@@ -1,41 +1,32 @@
-## Java QA Automation
+# Hi, I'm Evgeny 👋
 
-__Email:__ |__gribanoveu@yandex.ru__| 
----------|------------------|
-__Telegram:__| __egribanov__ |
+Cross-functional engineer at Alfa-Bank. I take a feature from requirements to release: I write the analysis, build the backend in Java and Spring, and cover it with automated tests. On the side, I build developer tools in Rust and TypeScript.
 
-## 📄 Summary
-> #### Software Quality Test Engineer with expertise in Automation Testing in Web. Experience using testing tools like Cucumber, Selenium, WebDriver, REST Assured, Stress testing.
+📍 Volgograd, Russia · ✉️ gribanoveu@yandex.ru · 💬 [Telegram](https://t.me/egribanov)
 
-> #### Automation of test scripts and user stories in Cucumber. Writing Test Cases Using JUnit and AssertJ. API testing with REST Assured library. Using patterns such as Page Objects, Page Factory, Page Elements, Assert Objects, SimpleFactory, Builder. Experience with Jenkins.
+## What I do
 
-## 🛠 Skills
-Property | Data
---- | --- 
-**Language / IDE**  | ![Java Badge](https://img.shields.io/badge/Java-E06C00?style=flat&logo=Java&logoColor=white) ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-1178EA?style=flat&logo=intellij-idea&logoColor=white)
-**Framework**  | ![Selenium Badge](https://img.shields.io/badge/-Selenium-00AE00?style=flat&logo=Selenium&logoColor=white) ![Selenide Badge](https://img.shields.io/badge/-Selenide-00AE00?style=flat&logo=Selenium&logoColor=white) ![JUnit Badge](https://img.shields.io/badge/JUnit_5-DC524A?style=flat&logo=JUnit5&logoColor=white) ![TestNG Badge](https://img.shields.io/badge/TestNG-white?style=flat&logo=TestNG&logoColor=white) ![Cucumber Badge](https://img.shields.io/badge/Cucumber-52B564?style=flat&logo=cucumber&logoColor=white) ![Rest Badge](https://img.shields.io/badge/REST%20Assured-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![Static Badge](https://img.shields.io/badge/Spring-boot)
-**Tools**  |![Git Badge](https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white) ![Maven Badge](https://img.shields.io/badge/Maven-D1412F?style=flat&logo=ApacheMaven&logoColor=white) ![JMeter Badge](https://img.shields.io/badge/JMeter-D1412F?style=flat&logo=ApacheJMeter&logoColor=white)
-**OS**  |  ![Mac Badge](https://img.shields.io/badge/Mac%20OS-informational?style=flat-square&logo=apple&logoColor=white&color=black) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=black) ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=black)
+- **Analysis** — turn business requests into requirements, API contracts and acceptance criteria
+- **Development** — backend services in Java and Spring Boot: REST APIs, JPA, authentication
+- **Testing** — test automation from the API to the UI, plus load testing
 
+## What I'm building
 
-## 🌎 Languages
+**[Kibo Agent](https://github.com/gribanoveu/kibo-agent)** — a desktop coding agent that works in your repository: it reads and searches code, edits files, runs commands and tests, and shows you what it did. Offline semantic search, any LLM provider. *Tauri · Rust · React*
 
-Language | Level
----------|--------
-Russian  | native
-English  | B1 Intermediate
+**[Alfa Atlas](https://github.com/gribanoveu/alfa-atlas)** — a documentation editor that works directly with Git repositories. *Tauri · TypeScript*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gribanoveu&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+**[geometry-jpa](https://github.com/gribanoveu/geometry-jpa)** — working with geometry in JPA and Spring Boot 3, the code for my article on Habr.
 
+## Tech
 
-## 📚 Education
+![](https://skillicons.dev/icons?i=java,spring,postgres,rust,ts,react,git,idea)
 
-> #### 2015 - 2019 Volgograd State Agrarian University. 
+- **Backend:** Java, Spring Boot, JPA / Hibernate, REST, JWT
+- **Testing:** JUnit 5, TestNG, Selenium, Selenide, Cucumber, REST Assured, JMeter
+- **Desktop & tools:** Rust, TypeScript, React, Tauri
 
-## 💼  Experience
+## Experience
 
-> ### 2021 - 2024 Consyst Business Group
-> ### Java QA automation
-
-> ### 2024 Alfa-Bank
-> ### Senior QA
+- **Alfa-Bank** — Senior QA, working across analysis, development and testing · 2024 – now
+- **Consyst Business Group** — Java QA Automation Engineer · 2021 – 2024
