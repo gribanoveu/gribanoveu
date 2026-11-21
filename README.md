@@ -2,8 +2,6 @@
 
 Cross-functional engineer at Alfa-Bank. I take a feature from requirements to release: I write the analysis, build the backend in Java and Spring, and cover it with automated tests. On the side, I build developer tools in Rust and TypeScript.
 
-📍 Volgograd, Russia · 💬 [Telegram](https://t.me/egribanov)
-
 ## What I do
 
 - **Analysis** — turn business requests into requirements, API contracts and acceptance criteria
